@@ -1,8 +1,8 @@
 # The supplementary notes for "Machine learning meets Omics: applications and perspectives"
 This repository provides the supplementary notes and figures for the review articale named "Machine learning meets Omics: applications and perspectives".
 
-## Note 1: Common deep learning models and their architectures
-Note 1 provides the detailed descriptions of the common deep learning models and their architectures shown in Figure S1.
+## Note 1: Commonly used deep learning models and their architectures
+Note 1 provides the detailed descriptions of the commonly used deep learning models and their architectures shown in Figure S1.
 ### Deep Belief Network
 Deep Belief Network (DBN) was one of the first non-convolution models to successfully apply deep architecture training, and started the current revival of deep learning since its first introduction in 2006. DBN is a generative model with several layers of latent variables, which is stacked by multiple Restricted Boltzmann Machines (RBM) (`Figure S1A`) as basic units. A single RBM consists of visible units and hidden units, which are connected in two directions, where the visible layers are multiplexed as input and output simultaneously. The DBN is trained using either the contrast spread or random maximum likelihood method. The first RBM is data driven, and the second RBM is trained to simulate the distribution defined by the hidden unit sampling of the first RBM. This process can be repeated indefinitely, adding any layer to the DBN, where each new RBM models a sample of the previous RBM, and each RBM defines another layer of the DBN. 
 ### Stacked Auto Encoder
