@@ -1,4 +1,10 @@
-# Publication numbers for Machine Learning in Omics (2006-2021)
+# The supplementary notes for "Machine learning meets Omics: applications and perspectives"
+This repository provides the supplementary notes and figures for the review articale named "Machine learning meets Omics: applications and perspectives".
+
+## Note 1: Common deep learning approaches and their architectures
+
+
+## Note 2: Publication numbers for Machine Learning in Omics (2006-2021)
 
 This repo has the source data and code for reproducing the circular barplot, which shows the increasing number of publication for machine learning (ML) in omics researches.
 
