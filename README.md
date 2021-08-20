@@ -1,5 +1,5 @@
 # The supplementary notes for "Machine learning meets Omics: applications and perspectives"
-This repository provides the supplementary notes and figures for the review articale named "Machine learning meets Omics: applications and perspectives".
+This repository provides the supplementary notes 1-2 and figures S1-S3 for the review articale named "Machine learning meets Omics: applications and perspectives".
 ## Figure S1: The hierarchy of machine learning approaches and their applications in omics studies!
 ![image](Source_data_codes/Figure_S1.jpg)
 
